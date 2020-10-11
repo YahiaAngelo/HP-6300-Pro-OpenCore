@@ -1,0 +1,1 @@
+## HP 6300 Pro i5 3470 + Nvidia GT-710 Working OpenCore 0.6.2
